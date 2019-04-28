@@ -45,7 +45,7 @@ Alternatively, you can configure the settings in the file `conf/services/openhab
 
 # The URL of the openHAB Cloud service to connect to.
 # Optional, default is set to the service offered by the openHAB Foundation
-# (https://myopenhab.org/)
+# (https://myopenhab.org:443)
 #baseURL=
 
 # Defines the mode in which you want to operate the connector.
